@@ -1,10 +1,9 @@
-#include "main.h"
-
-/**
- * Author: Zabdiel Uti 
+/* Author: Zabdiel Uti 
  * Purpose: draws a diagonal line on the terminal
  * @n: number of times the character \ should be printed
  */
+
+#include "main.h"
 
 void print_diagonal(int n)
 {
